@@ -1,0 +1,55 @@
+{
+  "General Knowledge": {
+    "Easy": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["London", "Berlin", "Paris", "Madrid"],
+        "answer": "Paris"
+      },
+      {
+        "question": "How many continents are there?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+      }
+    ],
+    "Hard": [
+      {
+        "question": "Which element has the chemical symbol 'W'?",
+        "options": ["Tungsten", "Wolfram", "Titanium", "Tantalum"],
+        "answer": "Tungsten"
+      }
+    ]
+  },
+  "Science": {
+    "Easy": [
+      {
+        "question": "What planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+      }
+    ],
+    "Hard": [
+      {
+        "question": "What is the speed of light in a vacuum (m/s)?",
+        "options": ["3.0 x 10^6", "3.0 x 10^8", "3.0 x 10^10", "3.0 x 10^5"],
+        "answer": "3.0 x 10^8"
+      }
+    ]
+  },
+  "Programming": {
+    "Easy": [
+      {
+        "question": "Which language is known as the language of the web?",
+        "options": ["Python", "JavaScript", "C++", "Ruby"],
+        "answer": "JavaScript"
+      }
+    ],
+    "Hard": [
+      {
+        "question": "What is the time complexity of binary search?",
+        "options": ["O(n)", "O(n log n)", "O(log n)", "O(1)"],
+        "answer": "O(log n)"
+      }
+    ]
+  }
+}
