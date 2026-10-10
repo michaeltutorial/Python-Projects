@@ -7,10 +7,10 @@ Responsibilities:
   3. Dispatch the user's choice to the right Game subclass
   4. Persist any new high scores
 """
-from games.blackjack import Blackjack
-from games.hangman import Hangman
-from games.higher_lower import HigherLower
-from games.number_guess import NumberGuess
+from GAMES.blackjack import Blackjack
+from GAMES.hangman import Hangman
+from GAMES.higher_lower import HigherLower
+from GAMES.number_guess import NumberGuess
 from scores import ScoreManager
 
 # Registry: menu key -> Game class.
