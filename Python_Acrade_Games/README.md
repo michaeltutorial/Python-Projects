@@ -5,27 +5,6 @@ with persistent high scores saved to disk. Built to demonstrate clean architectu
 refactor from procedural to OOP code, and idiomatic Python.
 
 
-
-
----
-
-## Table of Contents
-
-- [Features](#-features)
-- [Games](#-games)
-- [Quick Start](#-quick-start)
-- [Project Structure](#-project-structure)
-- [Architecture](#-architecture)
-- [How It Works](#-how-it-works)
-- [Scoring](#-scoring)
-- [Adding a New Game](#-adding-a-new-game)
-- [The Refactor Story](#-the-refactor-story)
-- [Skills Demonstrated](#-skills-demonstrated)
-- [Testing](#-testing-optional)
-- [Roadmap](#-roadmap)
-- [FAQ](#-faq)
-- [License](#-license)
-
 ---
 
 ## ✨ Features
@@ -73,22 +52,6 @@ The computer picks a number between 1 and 100. Find it with feedback.
 - **Controls:** Enter a number each turn
 
 ---
-
-## 🚀 Quick Start
-
-### Requirements
-
-- **Python 3.10+** (uses `set[str]` and `int | None` syntax)
-- No external packages
-
-### Run it
-
-```bash
-git clone https://github.com/yourname/python-arcade.git
-cd python-arcade
-python main.py
-
-
 
 
 
